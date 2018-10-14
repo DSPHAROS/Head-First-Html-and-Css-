@@ -1,0 +1,60 @@
+body {
+	font-family: sans-serif;
+}
+
+h1, h2 {    
+	color: gray;
+}
+
+h1 { 
+	border-bottom: 1px solid black;
+}
+
+p {
+	color: maroon;
+}
+
+/* blockquote.greentea, p.greentea {
+	color: green;
+} */
+
+
+p.blueberry {
+	color: purple;
+}
+.products {
+	font-size: 10px;
+}
+.specials {
+	color: red;
+}
+.greentea {
+	color: green;
+}
+p.raspberry {
+	color: blue;
+}
+/* p.greentea {
+	color: green;
+} */
+
+/* em {
+	font-family: serif;
+} */
+.attribute {
+	top: 50px;
+	text-align: center;
+	letter-spacing: 10px;
+	background-color: pink;
+	color: blackl;
+	font-style: italic;
+	border: 10px solid blue;
+	font-weight: 100;
+	padding: 100px;
+	font-size: larger;
+	line-height: 50px;
+	background-image: url("");
+}
+.myClass {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
