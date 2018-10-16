@@ -42,6 +42,7 @@ p.raspberry {
 	font-family: serif;
 } */
 .attribute {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	top: 50px;
 	text-align: center;
 	letter-spacing: 10px;
