@@ -38,7 +38,7 @@ h2 {
   border-style: solid;
   border-width: thin;
   border-color: #007e7e;
-  width:200px;
+  /* width:200px;   */              /* 如果没有宽度 */
   /* height: 200px; */
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
