@@ -15,7 +15,8 @@ body {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
+  margin:           0px 330px 10px 10px;
+  /* width: 75%; */
 }
 
 #sidebar {
@@ -23,6 +24,11 @@ body {
   font-size:        105%;
   padding:          15px;
   margin:           0px 10px 10px 10px;
+  /* width: 25%; */
+  width: 280px;
+  position: absolute;
+  top: 128px;
+  right: 0px;
 }
 
 #footer {
