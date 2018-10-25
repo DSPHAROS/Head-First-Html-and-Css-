@@ -54,4 +54,17 @@ th {
   background-color: #fcba7a;
 } */
 
+table table th {
+  background-color: white;
+}
+
+li {
+  list-style-image: url(images/backpack.gif);
+  list-style-type: square;
+  /* list-style-position: inside; */
+  padding-top:5px;
+  margin-left: 20px;
+  /* padding-left: 20px; */
+}
+
 
